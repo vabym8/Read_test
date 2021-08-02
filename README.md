@@ -48,6 +48,13 @@ List the ready features here:
    :height: 100px
    :width: 200 px
    :scale: 50 %
+   
+   -----
+   
+   
+<p align="center">
+  <img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" width="350" title="hover text">
+</p>
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
