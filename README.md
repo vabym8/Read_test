@@ -40,8 +40,20 @@ List the ready features here:
 ## Screenshots
 
 <a style='text-decoration: none; color: orange;'>
-  <img src='https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png' style='height: 600px'>
-  <div style='width: 130px; text-align: center;'>I just love to visit this most beautiful place in all the world.</div>
+  <img src='https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png' style='height: 300px'>
+  <div style='width: 130px; text-align: center;'>Screen Shot 1.</div>
+</a>
+<a style='text-decoration: none; color: orange;'>
+  <img src='https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png' style='height: 300px'>
+  <div style='width: 130px; text-align: center;'>Screen Shot 2.</div>
+</a>
+<a style='text-decoration: none; color: orange;'>
+  <img src='https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png' style='height: 300px'>
+  <div style='width: 130px; text-align: center;'>Screen Shot 3.</div>
+</a>
+<a style='text-decoration: none; color: orange;'>
+  <img src='https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png' style='height: 300px'>
+  <div style='width: 130px; text-align: center;'>Screen Shot 4.</div>
 </a>
 
 --
