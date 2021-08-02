@@ -38,7 +38,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./Screenshot 2021-07-08 at 2.37.22 PM.png)
+![Example screenshot](./Screenshot\2021-07-08\at\2.37.22\PM.png)
+Screenshot 2021-07-08 at 2.37.22 PM.png
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
