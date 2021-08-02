@@ -40,7 +40,7 @@ List the ready features here:
 ## Screenshots
 ![Example screenshot](./ss/router.png | height=100)
 ![Example screenshot](./ss/router.png)
-<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" width="100" height="100">
+<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" height="300">
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
