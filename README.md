@@ -38,7 +38,7 @@ List the ready features here:
 
 
 ## Screenshots
-<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" height="400">
+<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" height="600">
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
