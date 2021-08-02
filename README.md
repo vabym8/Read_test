@@ -38,7 +38,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./ss/Router.png)
+![Example screenshot](./ss/router.png)
 Screenshot 2021-07-08 at 2.37.22 PM.png
 <!-- If you have screenshots you'd like to share, include them here. -->
 
