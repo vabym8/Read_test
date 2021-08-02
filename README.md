@@ -58,7 +58,9 @@ List the ready features here:
 
 --
 
-<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" alt="THIS IS ALT" height="600">
+<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" alt="THIS IS ALT" height="300">
+<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" alt="THIS IS ALT" height="300">
+<img src="https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png" alt="THIS IS ALT" height="300">
 ![alt text](https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png)
 ![alt text](https://github.com/vabym8/Read_test/blob/dac9252f2f78e4398d5d0b5625fcd43239441727/ss/router.png?raw=true)
 
