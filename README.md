@@ -20,7 +20,7 @@
 </a>
 
 <a target="_blank" href="https://play.google.com/store">
-<img src="https://github.com/vabym8/Read_test/blob/master/ss/play_store.png" alt="Play Store" width="200">
+<img src="https://github.com/vabym8/Read_test/blob/master/ss/play_store.png" alt="Play Store" width="150">
 </a>
 
 ## General Information
