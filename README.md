@@ -15,6 +15,9 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
+<a target="_blank" href="https://www.w3schools.com">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+</a>
 
 ## General Information
 - Provide general information about your project here.
