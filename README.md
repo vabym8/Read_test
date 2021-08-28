@@ -16,7 +16,7 @@
 <!-- * [License](#license) -->
 
 <a target="_blank" href="https://www.appstore.com">
-<img src="../../ss/store_1.png" alt="App Store" width="150">
+<img src="../../../ss/store_1.png" alt="App Store" width="150">
 </a>
 
 <a target="_blank" href="https://play.google.com/store">
