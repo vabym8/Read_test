@@ -16,11 +16,11 @@
 <!-- * [License](#license) -->
 
 <a target="_blank" href="https://www.appstore.com">
-<img src="../../../ss/store_1.png" alt="App Store" width="150">
+<img src="ss/store_1.png" alt="App Store" width="150">
 </a>
 
 <a target="_blank" href="https://play.google.com/store">
-<img src="https://github.com/vabym8/Read_test/blob/master/ss/store_2.png" alt="Play Store" width="150">
+<img src="/ss/store_2.png" alt="Play Store" width="150">
 </a>
 
 ## General Information
