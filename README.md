@@ -16,7 +16,7 @@
 <!-- * [License](#license) -->
 
 <a target="_blank" href="https://www.appstore.com">
-<img src="https://github.com/vabym8/Read_test/blob/master/ss/store_1.png" alt="App Store" width="150">
+<img src="./master/ss/store_1.png" alt="App Store" width="150">
 </a>
 
 <a target="_blank" href="https://play.google.com/store">
