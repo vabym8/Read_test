@@ -15,8 +15,12 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
-<a target="_blank" href="https://www.w3schools.com">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<a target="_blank" href="https://www.appstore.com">
+<img src="https://github.com/vabym8/Read_test/blob/master/ss/app_store.png" alt="App Store" >
+</a>
+
+<a target="_blank" href="https://play.google.com/store">
+<img src="https://github.com/vabym8/Read_test/blob/master/ss/play_store.png" alt="Play Store" >
 </a>
 
 ## General Information
